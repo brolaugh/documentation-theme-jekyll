@@ -5,13 +5,13 @@ entries:
   folders:
 
   - title: Changelog
-    url: /changelog
+    url: /changelog.html
     output: web
     type: frontmatter
     folderitems:
     
     - title: "1.7.1"
-      url: /changelog#171-----2017-11-17
+      url: /docs-api-changelog.html#171-----2017-11-17
       output: web
       type: frontmatter
 
@@ -21,6 +21,10 @@ entries:
     folderitems:
     
     - title: Sending
-      url: /sending-sms
+      url: /docs-api-sending+sms.html#sending-sms-messages
+      output: web
+      type: frontmatter
+    - title: Reading Sent
+      url: /docs-api-sending+sms.html#reading-sent-sms-messages
       output: web
       type: frontmatter

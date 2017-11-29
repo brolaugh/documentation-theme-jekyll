@@ -12,5 +12,5 @@ entries:
       url: /news.html
       output: web
     - title: REST API
-      url: /api
+      url: "docs-api.html"
       output: web

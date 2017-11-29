@@ -3,6 +3,7 @@ layout: post
 title: "REST API Changelog"
 date: "2017-11-17"
 sidebar: api_sidebar
+permalink: docs-api-changelog.html
 categories: changelog
 ---
 
