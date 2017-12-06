@@ -3,9 +3,17 @@ entries:
   product: SMS REST API
   version: "1.7.1"
   folders:
+  - title: General
+    output: web
+    type: frontmatter
+    folderitems:
+      - title: Getting an API Key
+        url: /docs-authentication.html
+        output: web
+        type: frontmatter
 
   - title: Changelog
-    url: /changelog.html
+    url: /docs-api-changelog.html
     output: web
     type: frontmatter
     folderitems:
@@ -27,4 +35,4 @@ entries:
     - title: Reading Sent
       url: /docs-api-sending+sms.html#reading-sent-sms-messages
       output: web
-      type: frontmatter
+      type: frontmatter      
