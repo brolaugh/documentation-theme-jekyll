@@ -7,6 +7,13 @@ permalink: docs-api-changelog.html
 categories: changelog
 ---
 
+## [1.7.3] - 2017-11-23
+
+### Fixed
+
+#### Add first in bundle to SMS Bundles
+When we moved from sending SMS synchronously to asynchronously we didn't reimplement the usage of first in bundle which has caused a customers not being able to see SMS bundles in WebbSMS that was sent through the REST API.
+
 ## [1.7.2] - 2017-11-22
 
 ### Added
