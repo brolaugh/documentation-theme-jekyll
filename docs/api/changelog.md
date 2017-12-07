@@ -7,6 +7,12 @@ permalink: docs-api-changelog.html
 categories: changelog
 ---
 
+## [1.7.2] - 2017-11-22
+
+### Added
+
+#### Add support for phone numbers starting with plus (+)
+Previously we didn't support numbers that started with pluses since they caused crashing. We've now added support for this by removing the pluses internally before they go out to the GSM network.
 
 ## [1.7.1] - 2017-11-17
 
