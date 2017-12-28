@@ -185,29 +185,4 @@ You can later use the ID to fetch updates for the specific SMS messages via the 
 Status codes
 ------------
 
-This is the list of all our SMS message status codes and their description.
-
-Status code| Description
------------|------------
-0          | Delivered to gateway
-1          | Gateway login failed
-2          | Invalid message content
-3          | Invalid phone number format
-4          | Insufficient funds
-10         | Received by the gateway
-11         | Delayed delivery
-12         | Delayed delivery cancelled
-21         | Delivered to the GSM network
-22         | Delivered to the phone
-30         | Insufficient funds
-41         | Invalid message content
-42         | Internal error
-43         | Delivery failed
-44         | Delivery failed
-45         | Invalid phone number
-50         | General delivery error
-51         | Delivery to GSM network failed
-52         | Delivery to phone failed
-100        | Insufficient credits
-101        | Wrong account credentials
-110        | Parameter error
+{% include custom/sms_status_table.md %}
