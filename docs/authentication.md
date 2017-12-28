@@ -4,7 +4,7 @@ title: "Authentication"
 sidebar: api_sidebar
 categories: documentation
 permalink: docs-authentication.html
-tags: [documentation, non_technical]
+tags: []
 ---
 
 Getting an API key

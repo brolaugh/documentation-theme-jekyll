@@ -4,7 +4,7 @@ title: "Sending SMS through the REST API"
 sidebar: api_sidebar
 categories: documentation
 permalink: docs-api-sending+sms.html
-tags: [documentation]
+tags: []
 ---
 
 Sending SMS messages
