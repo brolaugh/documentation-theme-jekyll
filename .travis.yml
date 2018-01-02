@@ -11,6 +11,6 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 deploy:
   provider: script
-  script: ./deploy.sh
+  script: sh ./deploy.sh
   on:
     branch: master
