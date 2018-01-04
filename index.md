@@ -2,6 +2,7 @@
 title: "Welcome to iP.1's Developer documentation site!"
 sidebar: home_sidebar
 permalink: index.html
+toc: false
 ---
 
 REST API

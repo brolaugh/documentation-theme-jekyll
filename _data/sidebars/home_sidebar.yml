@@ -16,3 +16,4 @@ entries:
       output: web
     - title: SOAP API
       url: /docs-soap-api-changelog.html
+      output: web

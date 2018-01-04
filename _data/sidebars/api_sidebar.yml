@@ -7,7 +7,7 @@ entries:
     output: web
     type: frontmatter
     folderitems:
-      - title: Getting an API Key
+      - title: Authentication / Getting an API Key
         url: /docs-authentication.html
         output: web
         type: frontmatter
