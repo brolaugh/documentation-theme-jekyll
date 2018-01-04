@@ -16,7 +16,7 @@ topnav_dropdowns:
       folderitems:
         - title: REST API
           url: /docs-api.html
-        #- title: Product 1
-        #  url: /p1_landing_page.html
+        - title: SOAP API
+          url: /docs-soap-api-changelog.html
         #- title: Product 2
         #  url: /p2_landing_page.html

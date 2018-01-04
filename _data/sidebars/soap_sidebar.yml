@@ -1,0 +1,15 @@
+entries:
+- title: Sidebar
+  product: SOAP API
+  version: ""
+  folders:
+  - title: Changelog
+    url: /docs-api-changelog.html
+    output: web
+    type: frontmatter
+    folderitems:
+    
+    - title: "3.4.8"
+      url: /docs-soap-api-changelog.html#348---2018-01-04
+      output: web
+      type: frontmatter

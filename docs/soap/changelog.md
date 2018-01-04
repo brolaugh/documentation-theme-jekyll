@@ -2,7 +2,7 @@
 layout: post
 title: "SOAP API Changelog"
 date: "2018-01-04"
-sidebar: api_sidebar
+sidebar: soap_sidebar
 permalink: docs-soap-api-changelog.html
 categories: changelog
 ---
