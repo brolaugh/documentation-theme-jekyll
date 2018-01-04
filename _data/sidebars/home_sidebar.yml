@@ -14,3 +14,5 @@ entries:
     - title: REST API
       url: "docs-api.html"
       output: web
+    - title: SOAP API
+      url: /docs-soap-api-changelog.html

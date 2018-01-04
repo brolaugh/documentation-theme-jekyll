@@ -13,7 +13,6 @@ entries:
         type: frontmatter
 
   - title: Changelog
-    url: /docs-api-changelog.html
     output: web
     type: frontmatter
     folderitems:
