@@ -7,6 +7,16 @@ permalink: docs-api-changelog.html
 categories: changelog
 ---
 
+## [1.8.0] - 2018-01-05
+
+### Added
+
+#### Add footer message to test accounts
+In order to deal people using our service illegitimate we've added a footer to all SMS that are sent by test account. This does not effect anyone that has purchased credits or other items in [our shop](http://shop.ip1sms.com).
+
+#### Add ability to filter SMS messages by sender and reciever
+Some users send a lot of messages which makes their requests to `/api/sms/sent` and/or `/api/sms/received` very heavy. In order to lighten the weight of these endpoints we've added the ability to filter by sender and recipient through the query parameters `to` and `from`.
+
 ## [1.7.3] - 2017-11-23
 
 ### Fixed

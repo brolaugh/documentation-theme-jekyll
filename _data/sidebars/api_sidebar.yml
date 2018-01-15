@@ -16,7 +16,9 @@ entries:
     output: web
     type: frontmatter
     folderitems:
-    
+    - title: "1.8.0"
+      url: docs-api-changelog.html#180---2018-01-05
+      output: web
     - title: "1.7.3"
       url: /docs-api-changelog.html#173---2017-11-23
       output: web
